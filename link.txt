@@ -1,1 +1,3 @@
 Click the link to access the webapp:- https://animal-detection-app.streamlit.app/
+
+Upload image file only with jpg, jprg, jfif and png format.
